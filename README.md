@@ -66,7 +66,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [angular-mdc-web](https://github.com/trimox/angular-mdc-web) | Angular wrapper for Material Components Web |
 
 
-### Standalone UI Components
+### Standalone UI Components [↑ Back to the Top](#table-of-contents)
 | Library | Description |
 |---------|-------------|
 | [**angular-confirmation-popover**](https://github.com/mattlewis92/angular-confirmation-popover) | Bootstrap confirmation popover for Angular. |
