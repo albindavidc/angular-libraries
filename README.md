@@ -35,9 +35,9 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 17. [Learning Resources 📚](#learning-resources)  
 18. [Design, Layout, and Animations 🎨](#design-layout-and-animations---back-to-the-top)  
 19. [Audio and Video 🎵📹](#audio-and-video---back-to-the-top)  
-20. [Image Lazy Loading 🖼️](#image-lazy-loading---back-to-the-top)  
-21. [Maps 🗺️](#maps---back-to-the-top)  
-22. [Various Modules 🛠️](#various-modules---back-to-the-top)  
+20. [Image Lazy Loading 🖼️](#image-lazy-loading-%EF%B8%8F--back-to-the-top)  
+21. [Maps 🗺️](#maps-%EF%B8%8F--back-to-the-top)  
+22. [Various Modules 🛠️](#various-modules-%EF%B8%8F--back-to-the-top)  
 23. [Starter Projects 🚀](#starter-projects---back-to-the-top)  
 24. [Testing and Debugging 🧪🐞](#testing-and-debugging---back-to-the-top)
 
