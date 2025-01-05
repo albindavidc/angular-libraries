@@ -6,8 +6,8 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 
 ## Contribute
 
-- Missing something? **[Submit a Pull Request](https://github.com/your-username/your-repository/pulls)** to add it.
-- Found an irrelevant library? Open an **[Issue](https://github.com/your-username/your-repository/issues)** to notify us.
+- Missing something? **[Submit a Pull Request](https://github.com/albindavidc/angular-libraries/pulls)** to add it.
+- Found an irrelevant library? Open an **[Issue](https://github.com/albindavidc/angular-libraries/issues)** to notify us.
 - Suggestions or improvements? Let us know!
 
 ---
