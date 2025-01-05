@@ -46,7 +46,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 
 ## Libraries List
 
-### UI Component Libraries [Back to the Top](#table-of-contents)
+### UI Component Libraries [↑ Back to the Top](#table-of-contents)
 | Library | Description |
 |---------|-------------|
 | [**Material2**](https://github.com/angular/components) | Material Design components for Angular. |
@@ -97,21 +97,6 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [**angular-froala-wysiwyg**](https://github.com/froala/angular-froala-wysiwyg) | Froala WYSIWYG editor for Angular. |
 | [**angular-recaptcha**](https://github.com/DethAriel/ng-recaptcha) | Google reCaptcha integration for Angular. |
 | [**angular-google-place-autocomplete**](https://github.com/rajan-g/angular2-google-place-autocomplete) | Google Place Autocomplete directive for Angular. |
-
-
-
-## UI Component Libraries
-| Library Name | Description |
-|--------------|-------------|
-| [Material2](https://github.com/angular/components) | Material Design components for Angular |
-| [OnsenUI](https://github.com/OnsenUI/OnsenUI) | Mobile app development framework using HTML5 and JavaScript. |
-| [ng-bootstrap](https://github.com/ng-bootstrap/ng-bootstrap) | Angular 2 powered Bootstrap |
-| [primeng](https://github.com/primefaces/primeng) | UI Components for Angular 2 |
-| [clarity](https://github.com/vmware/clarity) | Clarity Design System for Angular 2+ |
-| [ngSemantic](https://github.com/vladotesanovic/ngSemantic) | Angular building blocks based on Semantic UI |
-| [ng-lightning](https://github.com/ng-lightning/ng-lightning) | Native Angular components for Lightning Design System |
-| [covalent](https://github.com/Teradata/covalent) | Teradata UI Platform built on Angular Material 2.0 |
-| [igniteui-angular](https://github.com/IgniteUI/igniteui-angular) | UI and visualization components based on Ignite UI widgets |
 
 
 ## API and Data Layer
