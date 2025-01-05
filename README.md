@@ -16,7 +16,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 ## Table of Contents
 
 
-1. [UI Component Libraries 🖌️](#ui-component-libraries)  
+1. [UI Component Libraries 🖌️](#ui-component-libraries-)  
 2. [Standalone UI Components 🧩](#standalone-ui-components)  
 3. [Input Components 🎛️](#input-components)  
 4. [API and Data Layer 🔗](#api-and-data-layer)  
