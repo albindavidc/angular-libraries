@@ -33,13 +33,13 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 15. [Charts 📈](#charts)  
 16. [Tools 🔧](#tools)  
 17. [Learning Resources 📚](#learning-resources)  
-18. [Design, Layout, and Animations 🎨](#design-layout-and-animations)  
-19. [Audio and Video 🎵📹](#audio-and-video)  
-20. [Image Lazy Loading 🖼️](#image-lazy-loading)  
-21. [Maps 🗺️](#maps)  
-22. [Various Modules 🛠️](#various-modules)  
-23. [Starter Projects 🚀](#starter-projects)  
-24. [Testing and Debugging 🧪🐞](#testing-and-debugging)
+18. [Design, Layout, and Animations 🎨](#design-layout-and-animations-)  
+19. [Audio and Video 🎵📹](#audio-and-video-)  
+20. [Image Lazy Loading 🖼️](#image-lazy-loading-)  
+21. [Maps 🗺️](#maps-)  
+22. [Various Modules 🛠️](#various-modules-)  
+23. [Starter Projects 🚀](#starter-projects-)  
+24. [Testing and Debugging 🧪🐞](#testing-and-debugging-)
 
 
 ---
@@ -215,7 +215,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 
 
 
-## Design, Layout, and Animations  🎨
+## Design, Layout, and Animations 🎨
 
 | Library | Description |
 |---------|-------------|
