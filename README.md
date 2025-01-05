@@ -84,7 +84,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [**ng2-breadcrumb**](https://github.com/gmostert/ng2-breadcrumb) | Breadcrumb trail component for Angular. |
 | [**angular2-swing**](https://github.com/gajus/angular-swing) | Angular wrapper for the swing library. |
 
-### Input Components
+### Input Components [↑ Back to the Top](#table-of-contents)
 | Library | Description |
 |---------|-------------|
 | [**angular-autosize**](https://github.com/stevepapa/angular2-autosize) | Auto-adjust textarea height to fit content. |
@@ -99,7 +99,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [**angular-google-place-autocomplete**](https://github.com/rajan-g/angular2-google-place-autocomplete) | Google Place Autocomplete directive for Angular. |
 
 
-## API and Data Layer
+## API and Data Layer [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [angularfire2](https://github.com/angular/angularfire2) | The official Angular library for Firebase |
@@ -108,91 +108,91 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [angular2-rest](https://github.com/Paldom/angular2-rest) | HTTP client for consuming RESTful services |
 
 
-## State Management
+## State Management [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [ng2-redux](https://github.com/angular-redux/ng2-redux) | Angular 2 bindings for Redux |
 | [ng2-mobx](https://github.com/500tech/ng2-mobx) | MobX connector for Angular 2 |
 
 
-## Internationalization
+## Internationalization [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [ng2-translate](https://github.com/ngx-translate/core) | Internationalization library for Angular 2+ |
 | [angular2localization](https://github.com/robisim74/angular2localization) | Library for translating messages, dates, and numbers |
 
 
-## Authentication
+## Authentication [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [angular2-jwt](https://github.com/auth0/angular2-jwt) | Helper library for handling JWTs |
 | [ng2-cordova-oauth](https://github.com/nraboy/ng2-cordova-oauth) | OAuth library for Cordova projects |
 
 
-## Messages/Notifications
+## Messages/Notifications [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [angular2-notifications](https://github.com/flauc/angular2-notifications) | Easy-to-use notifications library |
 | [ng2-toastr](https://github.com/PointInside/ng2-toastr) | Bootstrap-style toast notifications |
 
 
-## Drag & Drop
+## Drag & Drop [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [angular2-grid](https://github.com/BTMorton/angular2-grid) | Grid-based plugin for drag/drop/resize |
 | [ng2-drag-drop](https://github.com/ObaidUrRehman/ng2-drag-drop) | Drag & Drop based on HTML5 |
 
 
-## Local Storage
+## Local Storage [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [angular2-localstorage](https://github.com/marcj/angular2-localstorage) | Save and restore variables to HTML5 LocalStorage |
 | [angular2-cookie](https://github.com/salemdar/angular2-cookie) | Implementation of Angular 1.x `$cookies` service |
 
 
-## Data Table Components
+## Data Table Components [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [ng2-smart-table](https://github.com/akveo/ng2-smart-table) | Smart data table component |
 | [ngx-datatable](https://github.com/swimlane/ngx-datatable) | Lightweight data-table for Angular 2+ |
 
 
-## Forms
+## Forms [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [ng-formly](https://github.com/formly-js/ng-formly) | JavaScript-powered forms |
 | [ng2-dynamic-forms](https://github.com/udos86/ng2-dynamic-forms) | Library for rapid form development |
 
 
-## Hot Module Loader
+## Hot Module Loader [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [angular2-hmr](https://github.com/AngularClass/angular2-hmr) | Hot Module Replacement for Angular |
 
 ---
 
-## Loading Indicators/Spinners
+## Loading Indicators/Spinners [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [ng2-slim-loading-bar](https://github.com/akserg/ng2-slim-loading-bar) | Slim loading bar for Angular |
 | [angular2-busy](https://github.com/devyumao/angular2-busy) | Show busy/loading indicators |
 
 
-## Charts
+## Charts [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [ngx-charts](https://github.com/swimlane/ngx-charts) | Declarative charting framework |
 | [angular2-highcharts](https://github.com/gevgeny/angular2-highcharts) | Highcharts integration for Angular |
 
 
-## Tools
+## Tools [↑ Back to the Top](#table-of-contents)
 | Library Name | Description |
 |--------------|-------------|
 | [augury](https://github.com/rangle/augury) | Development tools for Angular |
 | [gulp-inline-ng2-template](https://github.com/ludohenin/gulp-inline-ng2-template) | Gulp plugin to inline HTML/CSS |
 
 
-## Learning Resources
+## Learning Resources [↑ Back to the Top](#table-of-contents)
 | Resource | Description |
 |----------|-------------|
 | [awesome-angular2](https://github.com/AngularClass/awesome-angular2) | Curated list of Angular resources |
@@ -200,7 +200,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 
 
 
-## Design, Layout, and Animations 🎨
+## Design, Layout, and Animations 🎨 [↑ Back to the Top](#table-of-contents)
 
 | Library | Description |
 |---------|-------------|
@@ -213,7 +213,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [@angular/cdk](https://github.com/angular/components) | A set of behavior primitives for Angular design tools. |
 
 
-## Audio and Video 🎵📹
+## Audio and Video 🎵📹 [↑ Back to the Top](#table-of-contents)
 
 | Library | Description |
 |---------|-------------|
@@ -225,7 +225,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [ngx-youtube-player](https://github.com/orizens/ngx-youtube-player) | Angular wrapper for YouTube player. |
 
 
-## Image Lazy Loading 🖼️
+## Image Lazy Loading 🖼️ [↑ Back to the Top](#table-of-contents)
 
 | Library | Description |
 |---------|-------------|
@@ -233,7 +233,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [ngx-lazy-load](https://github.com/NathanWalker/ngx-lazy-load) | Angular image lazy loader library. |
 
 
-## Maps 🗺️
+## Maps 🗺️ [↑ Back to the Top](#table-of-contents)
 
 | Library | Description |
 |---------|-------------|
@@ -242,7 +242,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [angular2-baidu-map](https://github.com/leftstick/angular2-baidu-map) | Baidu Maps integration for Angular. |
 
 
-## Various Modules 🛠️
+## Various Modules 🛠️ [↑ Back to the Top](#table-of-contents)
 
 | Library | Description |
 |---------|-------------|
@@ -258,7 +258,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [ngx-bootstrap](https://github.com/valor-software/ngx-bootstrap) | Bootstrap components for Angular. |
 
 
-## Starter Projects 🚀
+## Starter Projects 🚀 [↑ Back to the Top](#table-of-contents)
 
 | Library | Description |
 |---------|-------------|
@@ -270,7 +270,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 | [angular-mean-starter](https://github.com/gdi2290/angular-mean-starter) | MEAN stack starter kit with Angular. |
 
 
-## Testing and Debugging 🛡️
+## Testing and Debugging 🛡️ [↑ Back to the Top](#table-of-contents)
 
 | Library | Description |
 |---------|-------------|
