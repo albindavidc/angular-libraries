@@ -46,7 +46,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 
 ## Libraries List
 
-### UI Component Libraries
+### UI Component Libraries [Back to the Top](#table-of-contents)
 | Library | Description |
 |---------|-------------|
 | [**Material2**](https://github.com/angular/components) | Material Design components for Angular. |
