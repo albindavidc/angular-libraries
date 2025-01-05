@@ -215,7 +215,7 @@ This repository aims to provide a comprehensive list of libraries compatible wit
 
 
 
-## Design, Layout, and Animations
+## Design, Layout, and Animations  🎨
 
 | Library | Description |
 |---------|-------------|
